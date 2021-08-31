@@ -1,0 +1,1 @@
+`Detect movements and capture image in a live camera stream.`
