@@ -1,1 +1,22 @@
-`Detect movements and capture image in a live camera stream.`
+Movement Detection
+=================
+
+Description
+===========
+```
+* Detects movements in  a live camera feed.
+* Captures images.
+```
+Packages
+========
+```
+* import os.
+* import winsound.
+* import cv2.
+```
+How it works
+============
+```
+* Clone the project.
+* Run main.py file.
+```
